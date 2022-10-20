@@ -14,7 +14,14 @@ module.exports = class Database {
         });
         this.createTables();
     }
-
+    selectToken(token) {
+        return new Promise((resolve, reject) => {
+            this.db.get('SELECT * FROM users WHERE token = ?', [token], (err, row) => {
+                if (err) reject(err);
+                resolve(row);
+            });
+        });
+    }
     generateToken() {
         return crypto.randomBytes(64).toString('hex');
     }
