@@ -13,7 +13,7 @@ module.exports = class Routers {
             if (typeof req.params.idExercice === 'number') console.log(req.params.idExercice)
         })
 
-        app.get('/api/auth', function(req, res) {
+        app.get('/api/auth/:ID', function(req, res) {
             res.json('Hello Nigger  ! ')
         })
 

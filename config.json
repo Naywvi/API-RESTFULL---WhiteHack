@@ -1,0 +1,116 @@
+{
+    "APP": {
+        "NAME": "WhiteHack",
+        "VERSION": "1.1.0",
+        "AUTHORS": {
+            "NAME": "Naywvi and ByLife",
+            "STATUS": "/!\\ Never forget who you are  /!\\"
+
+        }
+    },
+    "DB": {
+        "NAME": "WhiteHack.db",
+        "PATH": "./",
+        "USERS": [{
+                "firstname": "Nagib",
+                "lastname": "LAKHDARI",
+                "rank": "1"
+            },
+            {
+                "firstname": "Leo",
+                "lastname": "HAIDAR",
+                "rank": "1"
+            },
+            {
+                "firstname": "Luc",
+                "lastname": "CHARLOPEAU ",
+                "rank": "1"
+            },
+            {
+                "firstname": "Kaan",
+                "lastname": "TEKTEN",
+                "rank": "0"
+            },
+            {
+                "firstname": "Duncan",
+                "lastname": "LHUILLERY",
+                "rank": "0"
+            },
+            {
+                "firstname": "Vitaly",
+                "lastname": "SKVORTSOV",
+                "rank": "0"
+            },
+            {
+                "firstname": "Sean",
+                "lastname": "CORREA-GUANEL",
+                "rank": "0"
+            },
+            {
+                "firstname": "Joel",
+                "lastname": "RAKOTOMALALA",
+                "rank": "0"
+            },
+            {
+                "firstname": "Raphael",
+                "lastname": "MASSEY",
+                "rank": "0"
+            },
+            {
+                "firstname": "Djibril",
+                "lastname": "CAMARA",
+                "rank": "0"
+            },
+            {
+                "firstname": "Wahab",
+                "lastname": "MOUNIROU",
+                "rank": "0"
+            },
+            {
+                "firstname": "Joshua",
+                "lastname": "MADIEU-KOMLA",
+                "rank": "0"
+            },
+            {
+                "firstname": "Robin",
+                "lastname": "DELPLACE",
+                "rank": "0"
+            },
+            {
+                "firstname": "Janarthikan",
+                "lastname": "SUTHAKAR",
+                "rank": "0"
+            },
+            {
+                "firstname": "Akash",
+                "lastname": "SENTHILKUMAR",
+                "rank": "0"
+            },
+            {
+                "firstname": "Luc",
+                "lastname": "MARTIN",
+                "rank": "0"
+            },
+            {
+                "firstname": "Lucas",
+                "lastname": "BALIKDJIAN",
+                "rank": "0"
+            },
+            {
+                "firstname": "Sujeenthiran",
+                "lastname": "NAVEENDRAN",
+                "rank": "0"
+            },
+            {
+                "firstname": "Maelis",
+                "lastname": "NOHE ESTRADA",
+                "rank": "0"
+            },
+            {
+                "firstname": "Temp",
+                "lastname": "User",
+                "rank": "0"
+            }
+        ]
+    }
+}
